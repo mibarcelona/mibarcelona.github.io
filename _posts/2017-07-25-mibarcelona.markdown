@@ -2,7 +2,7 @@
 layout: default
 modal-id: 44
 date: 2017-07-25
-img: 2017-07-25-pltetuan.png
+img: 2017-07-25-pssantjoan.png
 alt: image-alt
 project-date: 2017
 client: Start Bootstrap
